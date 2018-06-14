@@ -48,8 +48,12 @@ body{
 	justify-content: space-between;
 	align-items: center;
 }
+a {text-decoration:  none;
+
+	color: #000;}
 .card {
 	text-decoration:  none;
+
 	color: #000;
 	background-color: #fff;
 	display: flex;
